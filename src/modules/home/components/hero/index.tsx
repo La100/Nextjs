@@ -15,7 +15,7 @@ const Hero = () => {
         <UnderlineLink href="/store">Explore products</UnderlineLink>
       </div>
       <Image
-        src="/hero.jpg"
+        src="https://tierranatural.pl/wp-content/uploads/2022/10/Mask-group-63-min.png"
         layout="fill"
         loading="eager"
         priority={true}
